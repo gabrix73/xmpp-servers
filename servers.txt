@@ -34,6 +34,7 @@ jabber.cc
 jabber.de
 jabber.fr
 jabber.ru
+jabber.tcpreset.net
 jabbers.one
 jabber.org
 jabber.sk
